@@ -91,18 +91,19 @@ Through this project, the following concepts were applied and reinforced:
 
 ---
 
-## Screenshots & Demo
+## Screenshots
 
-Screenshots and demonstrations can be added to illustrate:
+> Screenshots below illustrate the main user and administrator workflows of the application.
 
-- Google login
-- Search and filtering
-- Book listings with pagination
-- Request and reservation flows
-- Notifications
-- PDF receipt generation
+1. Google OAuth login  
+2. Home page with book listings and pagination  
+3. Advanced search with filters  
+4. Book details and request / reservation actions  
+5. User wishlist  
+6. Notification example (request approved)  
+7. Administrator approval interface  
+8. PDF receipt generated after approval  
 
----
 
 ## Author
 
